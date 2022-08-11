@@ -1,0 +1,90 @@
+{
+    "Stock_Selectivas":[
+        
+    {
+        "Est": "ACTIVA",
+        "Garantia": "05006584433",
+        "Buc": 20445421,
+        "Razon_Social": "THIELMANN MEXICO SA DE CV",
+        "Moneda":"Dolares",
+        "Fecha_Alta":"2015-07-17",
+        "Importe_MXN":20000000,
+        "Importe_USD": 100000,
+        "Prog": 2013,
+        "Porciento_Cober": 50,
+        "Com_Bcmx": 1.30,
+        "Acciones": ""
+      },
+      {
+        "Est": "INACTIVA",
+        "Garantia": "050065844300",
+        "Buc": 20445420,
+        "Razon_Social": "THIELMANN MEXICO SA DE CV",
+        "Moneda":"Dolares",
+        "Fecha_Alta":"2015-07-17",
+        "Importe_MXN":20000000,
+        "Importe_USD": 100000,
+        "Prog": 2013,
+        "Porciento_Cober": 50,
+        "Com_Bcmx": 1.30,
+        "Acciones": ""
+      },
+      {
+        "Est": "INACTIVA",
+        "Garantia": "05006584439",
+        "Buc": 20445422,
+        "Razon_Social": "THIELMANN MEXICO SA DE CV",
+        "Moneda":"Dolares",
+        "Fecha_Alta":"2015-07-17",
+        "Importe_MXN":20000000,
+        "Importe_USD": 100000,
+        "Prog": 2013,
+        "Porciento_Cober": 50,
+        "Com_Bcmx": 1.30,
+        "Acciones": ""
+      },
+      {
+        "Est": "ACTIVA",
+        "Garantia": "05006584413",
+        "Buc": 20445423,
+        "Razon_Social": "THIELMANN MEXICO SA DE CV",
+        "Moneda":"Pesos",
+        "Fecha_Alta":"2015-07-17",
+        "Importe_MXN":20000000,
+        "Importe_USD": 100000,
+        "Prog": 2012,
+        "Porciento_Cober": 50,
+        "Com_Bcmx": 1.30,
+        "Acciones": ""
+      },
+      {
+        "Est": "ACTIVA",
+        "Garantia": "0500658411",
+        "Buc": 20445424,
+        "Razon_Social": "THIELMANN MEXICO SA DE CV",
+        "Moneda":"Pesos",
+        "Fecha_Alta":"2015-07-17",
+        "Importe_MXN":20000000,
+        "Importe_USD": 100000,
+        "Prog": 2016,
+        "Porciento_Cober": 50,
+        "Com_Bcmx": 1.30,
+        "Acciones": ""
+      },
+      {
+        "Est": "INACTIVA",
+        "Garantia": "05006584400",
+        "Buc": 20445421,
+        "Razon_Social": "THIELMANN MEXICO SA DE CV",
+        "Moneda":"Dolares",
+        "Fecha_Alta":"2015-07-17",
+        "Importe_MXN":20000000,
+        "Importe_USD": 100000,
+        "Prog": 2019,
+        "Porciento_Cober": 50,
+        "Com_Bcmx": 1.30,
+        "Acciones": ""
+      }
+]
+    
+}
